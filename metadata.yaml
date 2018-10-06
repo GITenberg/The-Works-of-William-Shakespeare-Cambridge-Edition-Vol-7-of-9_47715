@@ -36,5 +36,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: The Works of William Shakespeare [Cambridge Edition] [Vol. 7 of 9]
 url: http://www.gutenberg.org/ebooks/47715
